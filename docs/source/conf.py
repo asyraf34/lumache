@@ -11,8 +11,8 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'oss24'
-copyright = '2024, aisl'
-author = 'aisl'
+copyright = '2024, asyraf34'
+author = 'asyraf34'
 release = '0.1'
 
 # -- General configuration ---------------------------------------------------
