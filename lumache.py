@@ -11,8 +11,8 @@ class InvalidKindError(Exception):
 
 def get_random_ingredients(kind=None):
     """
-   1.Chicken breast
-   2.Curry powder
+   1.Chicken breast\n
+   2.Curry powder\n
    3.Onion
 
     """
