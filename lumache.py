@@ -11,13 +11,9 @@ class InvalidKindError(Exception):
 
 def get_random_ingredients(kind=None):
     """
-    Return a list of random ingredients as strings.
-
-    :param kind: Optional "kind" of ingredients.
-    :type kind: list[str] or None
-    :raise lumache.InvalidKindError: If the kind is invalid.
-    :return: The ingredients list.
-    :rtype: "Chicker Curry"
+   1.Chicken breast
+   2.Curry powder
+   3.Onion
 
     """
     return ["shells", "gorgonzola", "parsley"]
